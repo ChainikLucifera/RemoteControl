@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater).also {
             setContentView(it.root)
-        }
+        } // test
 
     }
 }
