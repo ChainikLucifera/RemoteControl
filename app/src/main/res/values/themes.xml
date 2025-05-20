@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.RemoteControl" parent="Base.Theme.RemoteControl" />
+
+    <style name="RemoteButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
 </resources>

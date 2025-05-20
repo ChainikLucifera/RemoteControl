@@ -31,20 +31,17 @@
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/controlZeroBtn"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
+            style="@style/RemoteButton"
             android:text="0" />
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/controlOneBtn"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
+            style="@style/RemoteButton"
             android:text="1" />
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/controlEnterBtn"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
+            style="@style/RemoteButton"
             android:text="enter" />
     </TableRow>
 
